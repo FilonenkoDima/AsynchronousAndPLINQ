@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thread_Example_3", "Thread_
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multi-ThreadedFundamentals", "Multi-ThreadedFundamentals", "{863F281F-FB49-45E8-8B96-65261F503542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceConditions", "RaceConditions\RaceConditions.csproj", "{32879DCA-2BA5-4E91-8211-AA0F1395C71E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RaceConditions", "RaceConditions\RaceConditions.csproj", "{32879DCA-2BA5-4E91-8211-AA0F1395C71E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLockStatement_1", "TheLockStatement\TheLockStatement_1.csproj", "{B0AA1462-0D7C-4D44-9FBD-4A1F5E700490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheLockStatement_1", "TheLockStatement\TheLockStatement_1.csproj", "{B0AA1462-0D7C-4D44-9FBD-4A1F5E700490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLockStatement_2", "TheLockStatement_2\TheLockStatement_2.csproj", "{E4626075-547E-4E18-9C1E-FE6F661BDD19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheLockStatement_2", "TheLockStatement_2\TheLockStatement_2.csproj", "{E4626075-547E-4E18-9C1E-FE6F661BDD19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLockStatement_3", "TheLockStatement_3\TheLockStatement_3.csproj", "{48E118E5-F120-405A-9B8C-0EC206681CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheLockStatement_3", "TheLockStatement_3\TheLockStatement_3.csproj", "{48E118E5-F120-405A-9B8C-0EC206681CE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheLockStatement", "TheLockStatement", "{E2A32E82-38A8-4D08-BE36-FB11791C1D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synchronisation", "Synchronisation\Synchronisation.csproj", "{66301F0C-C4A6-40F8-8F49-799CDACF1405}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{48E118E5-F120-405A-9B8C-0EC206681CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48E118E5-F120-405A-9B8C-0EC206681CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48E118E5-F120-405A-9B8C-0EC206681CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66301F0C-C4A6-40F8-8F49-799CDACF1405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66301F0C-C4A6-40F8-8F49-799CDACF1405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66301F0C-C4A6-40F8-8F49-799CDACF1405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66301F0C-C4A6-40F8-8F49-799CDACF1405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +77,7 @@ Global
 		{E4626075-547E-4E18-9C1E-FE6F661BDD19} = {E2A32E82-38A8-4D08-BE36-FB11791C1D44}
 		{48E118E5-F120-405A-9B8C-0EC206681CE9} = {E2A32E82-38A8-4D08-BE36-FB11791C1D44}
 		{E2A32E82-38A8-4D08-BE36-FB11791C1D44} = {863F281F-FB49-45E8-8B96-65261F503542}
+		{66301F0C-C4A6-40F8-8F49-799CDACF1405} = {863F281F-FB49-45E8-8B96-65261F503542}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4957680-1F93-4A79-BB21-0E964682CDA5}
