@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheLockStatement", "TheLock
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synchronisation", "Synchronisation\Synchronisation.csproj", "{66301F0C-C4A6-40F8-8F49-799CDACF1405}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithTasks", "WorkWithTasks\WorkWithTasks.csproj", "{A3D62892-F7B3-4E27-AC3C-47E836F54B70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{66301F0C-C4A6-40F8-8F49-799CDACF1405}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66301F0C-C4A6-40F8-8F49-799CDACF1405}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66301F0C-C4A6-40F8-8F49-799CDACF1405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D62892-F7B3-4E27-AC3C-47E836F54B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D62892-F7B3-4E27-AC3C-47E836F54B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D62892-F7B3-4E27-AC3C-47E836F54B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D62892-F7B3-4E27-AC3C-47E836F54B70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +84,7 @@ Global
 		{48E118E5-F120-405A-9B8C-0EC206681CE9} = {E2A32E82-38A8-4D08-BE36-FB11791C1D44}
 		{E2A32E82-38A8-4D08-BE36-FB11791C1D44} = {863F281F-FB49-45E8-8B96-65261F503542}
 		{66301F0C-C4A6-40F8-8F49-799CDACF1405} = {863F281F-FB49-45E8-8B96-65261F503542}
+		{A3D62892-F7B3-4E27-AC3C-47E836F54B70} = {863F281F-FB49-45E8-8B96-65261F503542}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4957680-1F93-4A79-BB21-0E964682CDA5}
