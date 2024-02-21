@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithTasks", "WorkWithTa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParentAndChildTasks", "ParentAndChildTasks\ParentAndChildTasks.csproj", "{09A0DF54-31AD-40C6-9181-5B6B22AB58E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskContinuations", "TaskContinuations\TaskContinuations.csproj", "{9CF38427-8059-45BA-8954-18C20009E455}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{09A0DF54-31AD-40C6-9181-5B6B22AB58E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09A0DF54-31AD-40C6-9181-5B6B22AB58E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09A0DF54-31AD-40C6-9181-5B6B22AB58E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF38427-8059-45BA-8954-18C20009E455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF38427-8059-45BA-8954-18C20009E455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF38427-8059-45BA-8954-18C20009E455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF38427-8059-45BA-8954-18C20009E455}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{66301F0C-C4A6-40F8-8F49-799CDACF1405} = {863F281F-FB49-45E8-8B96-65261F503542}
 		{A3D62892-F7B3-4E27-AC3C-47E836F54B70} = {863F281F-FB49-45E8-8B96-65261F503542}
 		{09A0DF54-31AD-40C6-9181-5B6B22AB58E2} = {863F281F-FB49-45E8-8B96-65261F503542}
+		{9CF38427-8059-45BA-8954-18C20009E455} = {863F281F-FB49-45E8-8B96-65261F503542}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4957680-1F93-4A79-BB21-0E964682CDA5}
